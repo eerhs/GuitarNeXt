@@ -1,0 +1,2 @@
+Install dependencies by using the line below:
+!pip install librosa matplotlib scikit-learn torch torchvision tqdm pillow
